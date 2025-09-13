@@ -305,6 +305,10 @@ BOOL DumpRun(std::wstring werPath, DWORD targetPID, DWORD targetTID)
 
 int wmain(int argc, wchar_t* argv[])
 {
+    std::wcout << L"\nLSASS Process Dumper\n"
+        << L"  Two Seven One Three: x.com/TwoSevenOneT\n"
+        << L"==================================================\n\n";
+    
     if (argc != 3)
     {
         std::wcout << L"Usage:\n"
@@ -313,9 +317,7 @@ int wmain(int argc, wchar_t* argv[])
             << L"  WSASS.exe \"C:\\Windows\\System32\\WerFaultSecure.exe\" 1234\n";
         return 0;
     }
-    std::wcout << L"\nLSASS Process Dumper\n"
-        << L"  Two Seven One Three: x.com/TwoSevenOneT\n"
-        << L"==================================================\n\n";
+
     // Parse arguments
     std::wstring werPath = argv[1];
     DWORD targetPid = _wtoi(argv[2]);
