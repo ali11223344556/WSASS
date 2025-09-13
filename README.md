@@ -14,6 +14,8 @@ After the dump is complete, you need to restore the original 4-byte magic at the
 
 ## Links
 
+[Using WSASS to dump LSASS](https://www.zerosalarium.com/2025/09/Dumping-LSASS-With-WER-On-Modern-Windows-11.html)
+
 [Tool to run process with PPL without driver](https://github.com/2x7EQ13/CreateProcessAsPPL)
 
 ## Author:
